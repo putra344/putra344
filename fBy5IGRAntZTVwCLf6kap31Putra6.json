@@ -1,0 +1,21 @@
+{
+  "dialogBtnExtraTxt": "Later",
+  "dialogBtnExtraClick": "exit",
+  "dialogBtnMainTxt": "Update Now",
+  "dialogOption": "update",
+  "bukaLinkMain": "https://storeaplikasi03el01.blogspot.com/2021/06/store-aplikasi-terbaru.html",
+  "currVersion": "4.4",
+  "openLinkExtra": "null",
+  "dialogBtnMainClick": "browser",
+  "dialogSubtitle": "Halo pengguna! Anda menggunakan STORE SKIN MLBB versi lama, Anda perlu memperbarui ke versi terbaru untuk merasakan multifungsi total.",
+  "isOneTime": "false",
+  "dialogBtnMain": "true",
+  "developer": "fBy5IGRAntZTVwCLf6kap31Putra6",
+  "alertOption": "dialog",
+  "dialogTitle": "Pembaruan Baru versi 4.5",
+  "dialogBtnExtra": "false",
+  "isCancelable": "false",
+  "email": "putrasempalas1222@gmail.com",
+  "isOneTimeKey": "batal",
+  "newVersion": "4.5"
+}
